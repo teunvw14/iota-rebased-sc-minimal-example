@@ -1,0 +1,1 @@
+This repository contains a minimal example for a dApp on the IOTA Rebased network. This is the code that goes with [this blog about writing smart contracts on IOTA Rebased.](https://teunvw14.github.io/posts/iota-rebased-sc/)
