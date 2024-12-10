@@ -1,6 +1,6 @@
 <script lang="ts">
     import type { Wallet, WalletAccount } from '@mysten/wallet-standard';
-	import { getWallets } from '@mysten/wallet-standard';
+    import { getWallets } from '@mysten/wallet-standard';
     import { getFullnodeUrl, IotaClient } from '@iota/iota-sdk/client';
     import { Transaction } from '@iota/iota-sdk/transactions';
     
