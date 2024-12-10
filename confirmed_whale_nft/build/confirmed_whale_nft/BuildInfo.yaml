@@ -1,0 +1,30 @@
+---
+compiled_package_info:
+  package_name: confirmed_whale_nft
+  address_alias_instantiation:
+    confirmed_whale_nft: "0000000000000000000000000000000000000000000000000000000000000000"
+    iota: "0000000000000000000000000000000000000000000000000000000000000002"
+    std: "0000000000000000000000000000000000000000000000000000000000000001"
+  source_digest: 4ACB1818B0A2D6FBFEFF96E9C834ADF862640928FF684A54933D63107DDB9A86
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    install_dir: ~
+    force_recompilation: false
+    lock_file: "./Move.lock"
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: false
+    default_flavor: iota
+    default_edition: ~
+    deps_as_root: false
+    silence_warnings: false
+    warnings_are_errors: false
+    json_errors: false
+    additional_named_addresses: {}
+    lint_flag:
+      no_lint: false
+      lint: false
+dependencies:
+  - Iota
+  - MoveStdlib
